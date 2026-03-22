@@ -1,4 +1,4 @@
-### YTDLP - Video Downloader
+### Video Downloader
 
 **To check status of Plex:**
 systemctl status plexmediaserver
